@@ -1,0 +1,11 @@
+asgiref==3.3.1
+Django==3.1.5
+djangorestframework==3.12.2
+djangorestframework-simplejwt==4.6.0
+Markdown==3.3.3
+mysql-connector-python==8.0.23
+protobuf==3.14.0
+PyJWT==2.0.1
+pytz==2020.5
+six==1.15.0
+sqlparse==0.4.1
